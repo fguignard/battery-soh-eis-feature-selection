@@ -1,10 +1,10 @@
-Battery State-of-Health Estimation from a Minimal Set of Electrochemical Impedance Measurements
+# Battery State-of-Health Estimation from a Minimal Set of Electrochemical Impedance Measurements
 
-Overview
+## Overview
 
 This repository contains the code used to produce the results presented in the accompanying article:
 
-Battery State-of-Health Estimation from a Minimal Set of Electrochemical Impedance at Three Frequencies
+> Battery State-of-Health Estimation from a Minimal Set of Electrochemical Impedance at Three Frequencies
 
 The objective of this work is to investigate whether lithium-ion battery state-of-health (SOH) can be accurately estimated from a strongly reduced set of electrochemical impedance spectroscopy (EIS) measurements using machine learning. The analysis shows that predictive performance can be maintained using impedance measurements at only three frequencies across several regression models.
 
@@ -12,7 +12,7 @@ This repository is intended to promote reproducible research by providing the co
 
 ⸻
 
-Repository contents
+## Repository contents
 
 The code implements the complete workflow described in the paper, including:
 
@@ -25,7 +25,7 @@ The code implements the complete workflow described in the paper, including:
 
 ⸻
 
-Python dependencies
+## Python dependencies
 
 The analyses were performed in Python using standard scientific computing libraries, including:
 
@@ -37,6 +37,6 @@ The analyses were performed in Python using standard scientific computing librar
 
 ⸻
 
-Citation
+## Citation
 
 If you use this code in your research, please cite the accompanying article.
