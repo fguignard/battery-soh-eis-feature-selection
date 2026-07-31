@@ -1,0 +1,16 @@
+# Figure Properties
+figure.figsize: 10, 6
+
+# Font Properties
+font.family: Arial
+figure.titlesize: 16
+axes.titlesize: 16
+
+# Color Properties
+axes.prop_cycle: cycler(color=['005694', 'af191c', 'ffd303', 'FF0000', 'ef7a17', 'ca8d13', '226178', '24b4cc', '56b038', '6c3c90', '070b12', '797c84'])
+
+# Legend properties
+
+# Grid properties
+grid.alpha: 0
+
