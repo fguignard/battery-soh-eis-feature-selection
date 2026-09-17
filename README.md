@@ -1,10 +1,10 @@
-# Battery State-of-Health Estimation from Electrochemical Impedance using Reduced Frequency Measurements
+# Battery State-of-Health Estimation from Electrochemical Impedance Measurements using Machine Learning with Reduced Frequency Sets
 
 ## Overview
 
 This repository contains the code used to produce the results presented in the accompanying article:
 
-> Battery State-of-Health Estimation from Electrochemical Impedance using Reduced Frequency Measurements
+> Battery State-of-Health Estimation from Electrochemical Impedance Measurements using Machine Learning with Reduced Frequency Sets
 
 The objective of this work is to investigate whether lithium-ion battery state-of-health (SOH) can be accurately estimated from a strongly reduced set of electrochemical impedance spectroscopy (EIS) measurements using machine learning. The analysis shows that predictive performance can be maintained using impedance measurements at a reduced number of frequencies across several regression models.
 
